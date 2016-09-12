@@ -49,8 +49,10 @@ h2{
 }
 .boton{
 	position: absolute;
-	left:30%;
+	left: 0;
+	right: 0;
 	bottom: 0;
+	margin: 0 auto;
 	width: 500px;
 	padding: 2%;
 	background-color: #192951;
@@ -64,7 +66,7 @@ h2{
 .fondo-azul{
 	background-color: #192951;
 	color:#fff;
-	height: 400px;
+	height: 450px;
 }
 .texto{
 	font-size: 12px;
@@ -81,4 +83,4 @@ h2{
 	padding: 12% 13% 13% 0;
 	width: 85%;
 	height: 383px;
-}/* Inserta tu codigo aqui */
+}
